@@ -1,0 +1,20 @@
+GIT
+  remote: git://github.com/radiohead/knn.git
+  revision: 7fc782b644dc5d4bae6ca1bd782d3ca93f23eb00
+  specs:
+    knn (0.1.0)
+      descriptive_statistics (~> 2.5)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    descriptive_statistics (2.5.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  knn!
+
+BUNDLED WITH
+   1.10.6
