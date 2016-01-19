@@ -22,6 +22,6 @@ def run(data, type)
 end
 
 csv = CSV.open('data/processed.cleveland.data')
-data = csv.map{ |row| row.map{ |c| c.to_i rescue 0 } }
+data = csv.map{ |row| row.map{ |c| c.to_f rescue 0.0 } }
 run(data, :regression)
 run(data, :classification)
