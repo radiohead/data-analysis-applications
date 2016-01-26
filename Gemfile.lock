@@ -1,8 +1,8 @@
 GIT
   remote: git://github.com/radiohead/knn.git
-  revision: 7fc782b644dc5d4bae6ca1bd782d3ca93f23eb00
+  revision: 37bf3880b5b330163c814383be97ba888ceb12cb
   specs:
-    knn (0.1.0)
+    knn (0.2.3)
       descriptive_statistics (~> 2.5)
 
 GEM
