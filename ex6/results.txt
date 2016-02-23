@@ -1,0 +1,18 @@
+Fraction for 10 = 11.000000
+Mean for 10 = 0.451000
+Variance for 10 = 0.062099
+
+Fraction for 50 = 1.000000
+Mean for 50 = 0.475600
+Variance for 50 = 0.008581
+
+Fraction for 100 = 1.000000
+Mean for 100 = 0.494900
+Variance for 100 = 0.005059
+
+Fraction for 500 = 0.000000
+Mean for 500 = 0.502340
+Variance for 500 = 0.000994
+
+C-index for wrong = 0.840000
+C-index for right = 0.560000
